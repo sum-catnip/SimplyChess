@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coder-chess",
+  "name": "Simply Chess",
+  "description": "A very simple chess mod :3",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Freestyle Coder"],
+  "credits": "Thanks to my friend Sebastian for the models and textures :3, also this guy: http://pixeljoint.com/pixelart/22954.htm for the chess piece textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

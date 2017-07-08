@@ -1,0 +1,28 @@
+# Blocks
+tile.SimpleChessTable.name=Chess table
+
+# Items
+
+#white pieces
+item.white_rook.name=White rook
+item.white_knight.name=White knight
+item.white_bishop.name=White bishop
+item.white_queen.name=White queen
+item.white_king.name=White king
+item.white_pawn.name=White pawn
+
+#black pieces
+item.black_rook.name=Black rook
+item.black_knight.name=Black knight
+item.black_bishop.name=Black bishop
+item.black_queen.name=Black queen
+item.black_king.name=Black king
+item.black_pawn.name=Black pawn
+
+#other items
+item.checkerboard.name=Checkerboard
+item.black_set.name=Black chess set
+item.white_set.name=White chess set
+
+# Creative tab
+itemGroup.coder-chess=Simply Chess
